@@ -69,6 +69,7 @@ public class Assignment3 {
 		//Close all windows open from script
 		driver.quit();
 
+		//Testing for second commit
 
 	}
 
